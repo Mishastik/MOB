@@ -23,4 +23,4 @@ Expense Tracker - это десктопное приложение для отс
 
 ### Запуск
 ```bash
-python expense_tracker.py
+python Main.py
